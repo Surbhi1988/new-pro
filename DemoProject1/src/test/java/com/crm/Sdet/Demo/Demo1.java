@@ -33,7 +33,7 @@ public class Demo1 {public class DemoProject0 {
 	
 		System.out.println("hello");
 		System.out.println("hellow world");
-		System.out.println("good morning");
+
 	
 	}
 
