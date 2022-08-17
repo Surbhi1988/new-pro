@@ -10,7 +10,6 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-
 public class Demo1 {public class DemoProject0 {
 	@Test
 	public void demo1Test() throws Throwable {
@@ -33,10 +32,8 @@ public class Demo1 {public class DemoProject0 {
 	
 		System.out.println("hello");
 		
+  }
 
-	
-	}
-
-}
+ }
 
 }
