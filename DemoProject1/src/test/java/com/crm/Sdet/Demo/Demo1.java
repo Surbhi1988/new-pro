@@ -37,7 +37,7 @@ public class Demo1 {public class DemoProject0 {
 	
 		System.out.println("good morning");
 		System.out.println("hi");
-		
+		system.out.println("hello sir")
   }
 
  }
